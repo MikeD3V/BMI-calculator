@@ -1,0 +1,9 @@
+{
+    "name": "My App",
+    "short_name": "BMI",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
