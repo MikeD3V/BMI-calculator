@@ -11,6 +11,7 @@ body{
     height: 100vh;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 .whole:not(.calculate){
     border-width: 1px;
